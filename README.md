@@ -81,7 +81,7 @@ int main() {
 
 ```
 
-##OUTPUT
+## OUTPUT
 
 ~![image](https://github.com/user-attachments/assets/34e17bed-5971-4315-89a8-5dbf693e42de)
 
@@ -118,7 +118,7 @@ int main() {
 }
 ```
 
-##OUTPUT
+## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/98be3b5b-2fc2-4a28-89b3-aee725d37ddb)
 
